@@ -1,16 +1,16 @@
 {
-  "css": "sha384-4f/581e8ViOWDyYVfzBpdC58wwFOulmwaTqzqTpglR1BEbqrNfEy6bs776j3qoLW",
-  "js": "sha384-XDt592tRj3BoKwgT+A6orzuF8tvCq941nkZcKucmAX35M7PSoCFNr2EF+KVNAV4q",
+  "css": "sha384-13tFvpaPOJv0I0cyxpqF6uLyB26tyKH/1Z7POthGwtyRl0dHAAWz6xSOYtf2AFRK",
+  "js": "sha384-BrnoTphg6z8ZTRnQXaskVdf+sCEEdVSLSLZBhHf4R/49SjoXDurpfbnVQa+MNdNO",
   "pages": {
-    "/": "sha384-QSPTmc+xuVvRnjwcksI7C0mPNoEvlgkDx+Nuj4Xe5wPerWz0Q/tH+YsSM1RlmOLM",
-    "/404/": "sha384-DDXOmclHJMLWxBnpvq2zbE1PlKQtOVbpQnoJ1zzcQgw8UGo2u7Kd0DzgUxkSZxC7",
-    "/conclusion/": "sha384-FAbDG130kUzK+qT2LG74lA/Y8N/wgVAi/N/8670JO3mmZt8RziEq02qeSWGV47fY",
-    "/fud/": "sha384-FdtPzLOu8GvCW0+NZutbv25dK9Qd4gDItaiZCRBLP99mRQa47L/kcG8wy3FhmE3H",
-    "/solutions/": "sha384-Iw2l4E2oZEvQJijvLeWpMJpdKg46WFbjRY5durJUueV8zXIiLT7YNVD7EtCvl9PM",
-    "/status/": "sha384-+YcfDErWgiVFZPRTcuvPaO44GY+Jc1me3LlHlMXayschmuqEYPBpCrd9MGL2/w5o",
-    "/tofu/": "sha384-nFiflXwZDWc01MI6g+TMX9QmUIRXPqEY3S7JrLh97oio8iYsLzDHtBukz18xwBE4",
-    "/tosu/": "sha384-4qjq28okkoPVYkeoB0SIgUhV9ZM6x2FHfD9N5sptptQzXptiKgPinOkVxEMfrCnZ",
-    "/transcript/": "sha384-UrKg7KXipsS2cmpnSAmCD2HZYqOHBuB6C3TVWj8ubYLeBq/JH6KwVR5s5GxrCKlM"
+    "/": "sha384-tILfgFgNatzBb+wbajbeqIuKL8ePma3pnaKK1iGrgSnlpYFnMjIzsuKsrynk64o8",
+    "/404/": "sha384-FjjZr6pBUtKwGnVFdgjQmRDdU+uE5bNZDjspzpzviDmI+gySkzfZnURSCeIKFJxH",
+    "/conclusion/": "sha384-Haf3Do4ilcK1yBRKnrOS/3jy1yvMdPUNBOFgLFMmXhYeYeuc+kbvt6MtDCU2ow1I",
+    "/fud/": "sha384-ljyzKFGeF9++sVO+OESJkPmgkOylg5BTLUX2yP56q6FtrZ3DEh0ufEzN0obN6SBZ",
+    "/solutions/": "sha384-/EpvG1V13+pdDbHT0kSnSPy/pvwFk7g32wR9mg8xMX8y2axhex/D65kE/mnIhpqU",
+    "/status/": "sha384-zGy1jFDiJjVc/mB3R+SOFzsbwwHY0Wm9wTqebcUhLNz01hwvd5FUVIg45II3Eux/",
+    "/tofu/": "sha384-hAS8akzI/mK9wZgX/jpdB8VHn1wMiD6eoX0wmD7kU43bnNxjhC6z2TTCe5bm6OoL",
+    "/tosu/": "sha384-dFagf/Hqb8BROlJa+46WGijXLPrhiAMEo+/xRIUOtgw25GmAZMiGqHQov6aLz/Ff",
+    "/transcript/": "sha384-RLfPMwQySpTC62hSyYxKc2L6YkUTUI3a2fBrMV8Cx68H8BpJvKqgEBH6L6KsGgeh"
   },
   "static": {
     "/robots.txt": "sha384-enLvjfR/OymkmdJhjKAhng2DVk7n7WXOgSkNbI0hdTELNHctFZxDgR2WhrVitqAl",
