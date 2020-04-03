@@ -1,0 +1,3 @@
+user-agent: *
+allow: /
+sitemap: https://slides.webboot.org/sitemap.xml
