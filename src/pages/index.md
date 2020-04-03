@@ -19,5 +19,7 @@ and
 
 parallelepolis vienna / https://parallele.at
 
+https://slides.webboot.org/
+
 <Link class="BottomLink" to="/fud/">fud</Link>
 

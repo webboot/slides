@@ -16,6 +16,6 @@ uncensored,
 offline first,
 and peer 2 peer connected,
 application mesh network
-world of the future
+world of the future.
 
 <Link class="BottomLink" to="/tosu/" text="tosu"></Link>
