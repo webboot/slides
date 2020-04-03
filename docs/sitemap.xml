@@ -27,6 +27,13 @@
 </url>
 
 <url>
+  <loc>https://slides.webboot.org/fin/</loc>
+  <lastmod>2020-04-03</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
   <loc>https://slides.webboot.org/fud/</loc>
   <lastmod>2020-04-03</lastmod>
   <changefreq>weekly</changefreq>
