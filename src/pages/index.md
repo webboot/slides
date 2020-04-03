@@ -17,6 +17,7 @@ bitcoinerswithoutborders / https://bwb.is
 
 and
 
-parallelepolis / https://parallele.at
+parallelepolis vienna / https://parallele.at
 
-<Link class="bottom" to="/fud/">fud</Link>
+<Link class="BottomLink" to="/fud/">fud</Link>
+

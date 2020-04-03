@@ -33,19 +33,19 @@ export default (v = {}) => {
       ].join(', '),
 
       fontSize: v.fontSize,
-      lineHeight: '2',
+      lineHeight: '2.5',
     },
 
-
-  '#Magic': {
-    backgroundColor: v.background.dark,
-    fontFamily: 'ubuntu',
-    textAlign: 'center',
-    fontSize: '25px',
-    height: '100vh',
-    width: '100vw',
-    color: v.text.dark,
-    transition: `color ${v.fadeDuration}, background-color ${v.fadeDuration}`,
+    '#Magic': {
+      backgroundColor: v.background.dark,
+      fontFamily: 'ubuntu',
+      textAlign: 'center',
+      fontSize: '25px',
+      minHeight: '100vh',
+      minWidth: '100vw',
+      color: v.text.dark,
+      transition: `color ${v.fadeDuration}, background-color ${v.fadeDuration}`,
+      padding: '0 0 3em',
 
       '&.light': {
         backgroundColor: v.background.light,
@@ -82,11 +82,11 @@ export default (v = {}) => {
       },
     },
 
-    '.bottom': {
-      position: 'absolute',
-      bottom: '0',
-      textAlign: 'center',
-      width: '100%',
+    '.BottomLink': {
+      position: 'fixed',
+      bottom: '1em',
+      right: '1em',
+      left: 'auto',
     },
   }
 }

@@ -1,5 +1,6 @@
 # status
 
-webboot is not work in progress.
+webboot is work in progress.
 
-we expect to have a working implementation in a few weeks.
+i expect to have the first fully working testnet implementation in a month or two.
+

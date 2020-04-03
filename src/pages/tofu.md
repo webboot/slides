@@ -4,12 +4,18 @@ trust on first use.
 
 this is a central problem of the web that has not been solved.
 
-### threats
+we can not trust any page we load in a browser,
+anything can be changed at any time.
 
-hackers can hack the server and change the payloads.
+i (and many in our community of peers)
+dream of and work for a real interplanetary network of equal peers.
 
-developers can mess up and push a broken build.
+a cryptographically encrypted, verified, signed, salted, peppered,
+decentralized,
+uncensored,
+offline first,
+and peer 2 peer connected,
+application mesh network
+world of the future
 
-three letter agencies can man in the middle everything.
-
-<Link class="bottom" to="/tosu/" text="tosu"></Link>
+<Link class="BottomLink" to="/tosu/" text="tosu"></Link>
