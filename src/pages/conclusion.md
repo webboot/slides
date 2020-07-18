@@ -14,5 +14,4 @@ it is not your wallet if you do not have the private key.
 
 until webboot arrives, install noscript. it just breaks the internet, no biggie.
 
-<Link class="BottomLink" to="/fin/">fin</Link>
-
+<NextPrev state next="fin" prev="status"></NextPrev>

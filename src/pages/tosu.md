@@ -21,4 +21,4 @@ and warning both developers and users before they update.
 developers can flag vulnerable versions,
 those will not execute on any client and force an update before allowing the page to load.
 
-<Link class="BottomLink" to="/status/" text="status"></Link>
+<NextPrev state next="status" prev="tofu"></NextPrev>

@@ -33,11 +33,6 @@ abstract
 
 webboot allows us to verify the content of homepages, before we load them.
 
-
-
-
-
-
 i started working on this project in january,
 i have some parts done, but there still is a lot of work to do.
 

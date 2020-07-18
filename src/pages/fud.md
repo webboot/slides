@@ -42,4 +42,4 @@ censorship might change or conceal information.
 even the hardware in our computers can not be trusted.
 [[1](https://en.wikipedia.org/wiki/Intel_Active_Management_Technology)]
 
-<Link class="BottomLink" to="/tofu/" text="tofu"></Link>
+<NextPrev state next="tofu" prev="/"></NextPrev>
