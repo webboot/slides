@@ -4,6 +4,6 @@ export default {
   URL: 'slides.webboot.org',
   CNAME: 'slides.webboot.org',
   PUBLIC: 'docs',
-  THEME: 'example',
-  HOIST: ['LightSwitch', 'Gdpr'],
+  THEME: 'slides',
+  HOIST: ['LightSwitch', 'NoSpy'],
 }
