@@ -37,11 +37,11 @@
     "@magic-modules/no-spy": "0.0.5",
     "@magic-modules/pre": "0.0.9",
     "@magic-themes/slides": "0.0.1",
-    "@magic/core": "0.0.87"
+    "@magic/core": "0.0.91"
   },
   "devDependencies": {
-    "@magic/format": "0.0.12",
-    "@magic/test": "0.1.52"
+    "@magic/format": "0.0.17",
+    "@magic/test": "0.1.56"
   },
   "keywords": [
     "magic",
